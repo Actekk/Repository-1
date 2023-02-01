@@ -1,3 +1,2 @@
 # Repository-1
-The first
-But not the last
+The first but not the last
