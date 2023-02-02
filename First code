@@ -9,8 +9,8 @@ public class Task {
         while (m > 0)
         {
             if (m % 2 == 1)
-                ans += n << count;
-            count++;
+                ans += n << n;
+            count--;
             m /= 2;
         }
         return ans;
