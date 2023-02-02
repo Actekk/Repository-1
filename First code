@@ -2,6 +2,7 @@ public class Task {
       public class Task {
       public static void main(String[] args){
         System.out.println(job(3,4));
+		// Joke
     }
     static int job(int n, int m)
     {
@@ -16,3 +17,4 @@ public class Task {
         return ans;
     }
 }
+// Add gitignore file in the repo for visual studio files
